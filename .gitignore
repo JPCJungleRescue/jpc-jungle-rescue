@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Node.js files (if using npm or other tools in the future)
+node_modules/
+dist/
